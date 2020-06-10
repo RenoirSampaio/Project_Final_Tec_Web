@@ -12,3 +12,6 @@ controlar as ordens de serviço de seus clientes
 * Ruan Campos
 * Samuel Hericles
 Website Project
+
+# To run
+php -S localhost:8080 'nomedoarquivo'.php
