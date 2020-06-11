@@ -14,4 +14,4 @@ controlar as ordens de serviço de seus clientes
 Website Project
 
 # To run
-php -S localhost:8080 'nomedoarquivo'.php
+php -S localhost:8080
